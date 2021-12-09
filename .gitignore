@@ -128,3 +128,5 @@ fabric.properties
 .idea/
 tablero
 game
+game.c:Zone.Identifier
+generate.sh:Zone.Identifier
