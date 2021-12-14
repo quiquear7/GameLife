@@ -130,3 +130,5 @@ game
 game.c:Zone.Identifier
 generate.sh:Zone.Identifier
 *.txt
+game1
+tablero2
